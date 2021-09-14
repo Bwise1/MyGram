@@ -26,5 +26,5 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: dist-without-markdown
-          path: zc_frontend/build
+          path: /home/runner/work/MyGram/MyGram/.next/
       
